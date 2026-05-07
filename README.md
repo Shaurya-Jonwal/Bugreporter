@@ -50,18 +50,18 @@ Unlike complex tools like Jira or GitHub Issues, it is built specifically for:
 
 ---
 
-## Screenshots (Coming Soon)
-
-_Add screenshots or GIFs here to showcase your UI_
-
----
-
 ## Tech Stack
 
 - **Frontend:** React  
 - **Backend:** Node.js (Express)  
 - **Database:** MongoDB / PostgreSQL  
 - **Authentication:** JWT  
+
+---
+
+## Importent note of Bugmailer verson 1
+
+when the reciver server is online, all the reports, issue and feedback can forward from sender server to reciver server else it will not work
 
 ---
 
